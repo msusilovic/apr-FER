@@ -1,0 +1,4 @@
+6. ZADATAK
+
+Rješenje sustava s LUP dekompozicijom:
+Matrica je singularna. Sustav nema rješenja.

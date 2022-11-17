@@ -1,0 +1,7 @@
+4. ZADATAK
+Matricu nije moguce rastaviti LU dekompozicijom.
+
+Rješenje sustava s LUP dekompozicijom:
+1,000
+2,000
+3,000

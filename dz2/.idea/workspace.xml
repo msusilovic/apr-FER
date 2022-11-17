@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a4f10e3-ee40-4c52-b4f8-054016916318" name="Default Changelist" comment="">
+      <change afterPath="C:/6/ai/1.lab/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="C:/6/ai/1.lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/6/ai/1.lab/1.lab.iml" afterDir="false" />
+      <change afterPath="C:/6/ai/lab3/labos3.iml" afterDir="false" />
+      <change afterPath="C:/6/ai/lab3/src/main/java/ui/ID3.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/DistributionTester.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/Fibonacci.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/Interpolation.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/Main.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/Nearest.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/Normal.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/NumberGenerator.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/PercentileCalculator.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak4/Sequential.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/DatotecniIzvor.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/IzvorBrojeva.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/Main.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/Medijan.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/Observer.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/Prosjek.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/SlijedBrojeva.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/Suma.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/TipkovnickiIzvor.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak5/Zapis.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak6/Cell.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak6/Main.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/src/zadatak6/Sheet.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/2.labos/zadnja3/zadnja3.iml" afterDir="false" />
+      <change afterPath="C:/6/ooup/3.labos/.idea/3.labos.iml" afterDir="false" />
+      <change afterPath="C:/6/ooup/3.labos/ooupJava/ooupJava.iml" afterDir="false" />
+      <change afterPath="C:/6/ooup/3.labos/ooupJava/src/hr/fer/zemris/ooup/lab2/model/Main.java" afterDir="false" />
+      <change afterPath="C:/6/ooup/3.labos/ooupJava/src/hr/fer/zemris/ooup/lab2/model/plugins/Parrot.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/dao/CarRepository.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/domain/Item.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/rest/ItemController.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/rest/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/rest/SaleController.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/rest/WebSecurity.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/rest/results/ItemOnSale.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/rest/results/PartsInCars.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/service/PartService.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/service/RequestDeniedException.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/service/SaleService.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/service/impl/ItemServiceJpa.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/java/hr/partsunlimited/unicorn/service/impl/SaleServiceJpa.java" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/resources/db/migration/V1-0_create_migration.sql" afterDir="false" />
+      <change afterPath="C:/6/praksa/unicorn/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/1612d44a-59e6-4ab2-b663-9f3f65eab524/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/SecureW2_EAP_Suite_StuDOM_114.exe" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/f/nasp/pradavanje 1.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/f/nasp/pradavanje1.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/f/prakse.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/.classpath" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/.project" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/CalculatedFuzzySet.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/CompositeDomain$1.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/CompositeDomain.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/Domain.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/DomainElement.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/IBinaryFunction.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/IDomain.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/IFuzzySet.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/IIntUnaryFunction.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/IUnaryFunction.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/MutableFuzzySet.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/Operations.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/SimpleDomain$1.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/SimpleDomain.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/StandardFuzzySets.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/demo/Domene.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/demo/Primjer1.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/demo/Primjer2.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/zadatak/bin/hr/fer/zemris/fuzzy/util/Debug.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0036507308.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hr/fer/zemris/apr/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hr/fer/zemris/apr/Optimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hr/fer/zemris/apr/functions/ObjectiveFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hr/fer/zemris/apr/matrix/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dk-monokai-142.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/META-INF/zad1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/CalculatedFuzzySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/CompositeDomain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/CompositeDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/Domain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/DomainElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/IBinaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/IDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/IFuzzySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/IIntUnaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/IUnaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/MutableFuzzySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/Operations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/SimpleDomain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/SimpleDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/StandardFuzzySets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/demo/Domene.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/demo/Primjer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/demo/Primjer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/out/production/zad1/hr/fer/zemris/fuzzy/util/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/CalculatedFuzzySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/CompositeDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/Domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/DomainElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/IBinaryFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/IDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/IFuzzySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/IIntUnaryFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/IUnaryFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/MutableFuzzySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/SimpleDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/StandardFuzzySets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/demo/Domene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/demo/Primjer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/demo/Primjer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/src/hr/fer/zemris/fuzzy/util/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/zad1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad1/zad1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/CalculatedFuzzySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/CompositeDomain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/CompositeDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/Domain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/DomainElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/IBinaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/IDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/IFuzzySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/IIntUnaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/IUnaryFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/IncompatibleOperandException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/MutableFuzzySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/Operations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/Relations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/SimpleDomain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/SimpleDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/StandardFuzzySets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/demo/Primjer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/demo/Primjer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/demo/Primjer3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/out/production/zad2/hr/fer/zemris/fuzzy/util/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/CalculatedFuzzySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/CompositeDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/Domain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/DomainElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/IBinaryFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/IDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/IFuzzySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/IIntUnaryFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/IUnaryFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/IncompatibleOperandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/MutableFuzzySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/Relations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/SimpleDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/StandardFuzzySets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/demo/Primjer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/demo/Primjer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/demo/Primjer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/src/hr/fer/zemris/fuzzy/util/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nenr/zad2/zad2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="ProjectId" id="1jZVniezRpBlbDvolaUDssEhl7S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hr/fer/zemris/apr" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\faks\apr\dz2\0036507308\src\hr\fer\zemris\apr" />
+      <recent name="C:\faks\apr\dz2\0036507308\src\hr\fer\zemris\apr\matrix" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.apr.Demo" />
+      <module name="0036507308" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.apr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.Main" />
+      <module name="0036507308" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4f10e3-ee40-4c52-b4f8-054016916318" name="Default Changelist" comment="" />
+      <created>1604011769572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604011769572</updated>
+      <workItem from="1604011773102" duration="463000" />
+      <workItem from="1604094991404" duration="70239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1604271465195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604271465195" />
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1604260196031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604104437607" />
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604260196031" />
+    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604270892332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1604270892332" />
+    <state x="552" y="211" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604270877751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604099167517" />
+    <state x="552" y="211" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604270877751" />
+    <state x="549" y="138" key="FileChooserDialogImpl" timestamp="1604271436740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="138" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604271436740" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1604271443460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604271443460" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1604271443460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604271443460" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1604271443460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604271443460" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1604271443460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604271443460" />
+    <state width="1493" height="197" key="GridCell.Tab.1.bottom" timestamp="1604270877959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604270877959" />
+    <state width="1493" height="197" key="GridCell.Tab.1.center" timestamp="1604270877959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604270877959" />
+    <state width="1493" height="197" key="GridCell.Tab.1.left" timestamp="1604270877959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604270877959" />
+    <state width="1493" height="197" key="GridCell.Tab.1.right" timestamp="1604270877959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604270877959" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1604095764964">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604095764964" />
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604241840413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1604241840413" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604239388395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604239388395" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604249285063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604249285063" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hr/fer/zemris/apr/functions/impl/Function3.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

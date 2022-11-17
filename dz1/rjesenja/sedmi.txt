@@ -1,0 +1,2 @@
+7. ZADATAK
+Matrica je singularna. Sustav nema rješenja.
